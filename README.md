@@ -51,7 +51,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
 
 
-## Contacts
+## Contact me
 
 [![Linkedin](https://img.shields.io/badge/-marifdam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/m4riferreira)](linkedin.com/in/m4riferreira)
 [![Gmail Badge](https://img.shields.io/badge/-mfd271999@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mfd271999@gmail.com)](mailto:mfd271999@gmail.com)
