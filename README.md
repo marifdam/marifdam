@@ -20,7 +20,6 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 
@@ -44,12 +43,20 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
 ![Cloudant](https://img.shields.io/badge/-Cloudant-333333?style=flat&logo=cloudant)
+![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
 
 **Clouds**
 
 ![IBMCloud](https://img.shields.io/badge/-IBMCloud-333333?style=flat&logo=ibmcloud)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
 
+**FrontEnd Projects**
+
+[Monster Killer](https://marifdam.github.io/monster-killler/)
+
+[Rastreio de equipamento](https://marifdam.github.io/rastreio-equipamento/)
+
+[Calculadora](https://marifdam.github.io/calculator/)
 
 ## Contact me
 
