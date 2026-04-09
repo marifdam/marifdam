@@ -5,7 +5,7 @@
 ## About me
 
 - 🤔 Passionate about technology and looking to learn more about Web Development and DevOps.
-- 🎓 Graduated in Computer Networks at IBMR and currently doing MBA in Conputer Software Engeneering at USP/ESALQ
+- 🎓 Graduated in Computer Networks at IBMR and currently doing MBA in Conputer Software Engineering at USP/ESALQ
 - 💼 Worked as a Software Developer at IBM and CI&T
 - 🌱 Learning more about new frameworks for frontend and backend development, and infrastructure as code.
 
